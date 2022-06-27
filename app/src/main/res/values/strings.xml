@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PMed</string>
+    <string name="login1">Selamat Datang</string>
+    <string name="login2">Konfirmasi Akun Kamu</string>
+    <string name="email">email kamu</string>
+    <string name="password">password kamu</string>
+    <string name="loginbutton">Masuk</string>
+    <string name="registerbutton">Saya belum punya akun</string>
+    <string name="loginbutton2">Saya sudah punya akun</string>
+    <string name="registerbutton2">Daftar</string>
+    <string name="register1">Mari Bergabung</string>
+    <string name="register2">Daftar Akun Kamu</string>
+    <string name="name">nama kamu</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan">SCAN</string>
+    <string name="dosis">dosis</string>
+    <string name="camera_activity">Camera Activity</string>
+    <string name="Scanning">SCAN</string>
+
+</resources>
